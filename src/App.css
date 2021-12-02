@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  width: 800px;
+  height: 759px;
+  display: inline-block;
+  overflow: scroll;
+}
